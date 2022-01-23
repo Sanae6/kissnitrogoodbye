@@ -1,4 +1,4 @@
 {
     "token": "<enter bot token here>",
-    "banReason": "Sent nitro scam link"
+    "reason": "Sent nitro scam link"
 }
