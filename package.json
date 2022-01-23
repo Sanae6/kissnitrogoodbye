@@ -1,0 +1,19 @@
+{
+  "name": "kissnitrogoodbye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.16.1",
+    "stop-discord-phishing": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "@types/ws": "^8.2.2"
+  }
+}
